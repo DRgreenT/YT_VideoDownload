@@ -5,13 +5,11 @@ yt-dlp.exe → [HERE](https://github.com/yt-dlp/yt-dlp)</br>
 ffmpeg.7z →  [HERE](https://github.com/GyanD/codexffmpeg/releases/tag/2025-03-03-git-d21ed2298e)</br></br>
 
 ***Important!***</br></br>
-1. download all required files and folders.</br>    
-2. unzip the ffmpeg.7z into the “source” folder (it is already there, just unzip it into the same folder),</br> 
-	 otherwise audio and video will be downloaded separately and not merged! A subfolder will not count!</br>	
-3. run ytdl.bat.</br>
-4. paste the YouTube link when prompted.</br>
-5. good luck! Sometimes YouTube just doesn't want you to download long videos.</br>
-6. a folder with the file will be created on your desktop. </br>
+1. download 7z file and unpack it</br>    
+2. run ytdl.bat.</br>
+3. paste the YouTube link when prompted.</br>
+4. good luck! Sometimes YouTube just doesn't want you to download long videos.</br>
+5. a folder with the file will be created on your desktop. </br>
     If the download is successful, you will find your video there afterwards.</br>
 
     The current setting is optimized for YouTube videos longer than 2 hours.</br>
