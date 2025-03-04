@@ -5,7 +5,7 @@ yt-dlp.exe → [HERE](https://github.com/yt-dlp/yt-dlp)</br>
 ffmpeg.7z →  [HERE](https://github.com/GyanD/codexffmpeg/releases/tag/2025-03-03-git-d21ed2298e)</br></br>
 
 ***Important!***</br></br>
-1. download 7z file and unpack it</br>    
+1. download [7z file](https://github.com/DRgreenT/YT_VideoDownload/blob/master/YT_VD_(packed_7z).7z) and unpack it</br>    
 2. run ytdl.bat.</br>
 3. paste the YouTube link when prompted.</br>
 4. good luck! Sometimes YouTube just doesn't want you to download long videos.</br>
