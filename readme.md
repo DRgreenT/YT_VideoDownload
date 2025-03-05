@@ -19,20 +19,18 @@ Maybe there is a builtin solution, but I was to lazy to read the hole documentat
     If the download is successful, you will find your video there afterwards.</br>
 
 ***Additonal info:***</br></br>
-    The current setting is optimized for YouTube videos longer than 2 hours.</br>
-    The script runs until it has successfully downloaded the video.</br>
-    You can close the window, the programm will continue where it stoped before you closed,</br> 
-    if you haven´t deleted the temporary files in the target folder.</br>
+The current setting is optimized for YouTube videos longer than 2 hours.</br>
+The script runs until it has successfully downloaded the video.</br>
+You can close the window, the programm will continue where it stoped before you closed,</br> 
+if you haven´t deleted the temporary files in the target folder.</br>
+There is a one minute pause between each failed attempt.</br>
+If necessary, you can edit the values in config.ini.</br> 
+More information: [HERE](https://github.com/yt-dlp/yt-dlp/blob/master/README.md).</br>
+The limit-rate value in the config.ini is very likely the one you want to adjust (eg. 500K or 2M and so on).</br>
+In my case ~200K worked best. </br> 
     
-    There is a one minute pause between each failed attempt.</br>
-
-    If necessary, you can edit the values in config.ini.</br> 
-    More information: [HERE](https://github.com/yt-dlp/yt-dlp/blob/master/README.md).</br>
-    The limit-rate value in the config.ini is very likely the one you want to adjust (eg. 500K or 2M and so on).</br>
-    In my case ~200K worked best. </br> 
-    
-    If the script continues to fail, restart your router - YouTube has probably blocked your IP address.</br>
-    You can edit the script as you wish.</br></br>
+If the script continues to fail, restart your router - YouTube has probably blocked your IP address.</br>
+You can edit the script as you wish.</br></br>
     
 ***Disclaimer:***</br></br>
 Use this script at your own risk.</br>
