@@ -7,7 +7,7 @@ Maybe there is a builtin solution, but I was to lazy to read the hole documentat
 ***How to:***</br></br>
 1.  download [yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)</br> 
 2.  download [ffmpeg](https://github.com/GyanD/codexffmpeg/releases/download/2025-03-03-git-d21ed2298e/ffmpeg-2025-03-03-git-d21ed2298e-essentials_build.7z) unpack it. </br> 
-3.  download [YT_VDownload](https://github.com/DRgreenT/YT_VideoDownload/blob/master/Release/Release.7z)
+3.  download [YT_VDownload](https://github.com/DRgreenT/YT_VideoDownload/blob/master/Downloads/Release.7z)
 4.  unpack Release.7z
 5.  unpack ffmpeg and navigate to the bin folder, unpack ffmpeg into source folder of YT_VD Release...
 6.  copy yt-dlp in source folder too. 
